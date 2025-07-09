@@ -23,14 +23,11 @@ CSS (custom styling)
 
 Font Awesome (for icons)
 
-📁 Project Structure
-public: index.html
-src:
-components:
-  Keyboard.js 
-  Keyboard.css
-App.js
-index.js
+## 📁 Project Structure
+
+`/public/index.html`, `/src/App.js`, `/src/components/Keyboard.js`, `/src/components/Keyboard.css`
+
+---
 
 🧑‍💻 Getting Started
 1. Clone the Repo
