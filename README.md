@@ -24,26 +24,19 @@ CSS (custom styling)
 Font Awesome (for icons)
 
 📁 Project Structure
-/public
-└── index.html
-/src
-├── components/
-│   └── Keyboard.js
-│   └── Keyboard.css
-├── App.js
-└── index.js
+public: index.html
+src:
+components:
+  Keyboard.js 
+  Keyboard.css
+App.js
+index.js
+
 🧑‍💻 Getting Started
 1. Clone the Repo
-Bash
-
-git clone https://github.com/your-username/react-virtual-keyboard.git
-cd react-virtual-keyboard
-2. Install Dependencies
-Bash
-
+2.cd react-virtual-keyboard
+3. Install Dependencies
 npm install
 3. Run the App
-Bash
-
 npm start
 Then open: http://localhost:3000
